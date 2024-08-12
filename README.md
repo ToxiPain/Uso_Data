@@ -1,2 +1,2 @@
-# EPIC-QUEST
-Proyecto de Bot de Whatsapp usando Baileys. 
+# DATA  
+PARA GUARDAR Y USARLA EN OTRO LUGAR Xd 
